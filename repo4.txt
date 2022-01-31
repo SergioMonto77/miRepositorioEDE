@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nuevo fichero repo4
+=======
+este fichero lo he creado en remoto
+>>>>>>> ac4c1173b557a659146848cd80ede7a518cca0fe
