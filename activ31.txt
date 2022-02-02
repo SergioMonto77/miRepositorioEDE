@@ -1,7 +1,11 @@
 archivo1
 nueva linea
+<<<<<<< HEAD
 segunda linea
 tercera linea
 segunda linea desde el main
 tercera linea desde el main
 nueva modificacion del main
+=======
+nueva modificacion
+>>>>>>> actividad3
