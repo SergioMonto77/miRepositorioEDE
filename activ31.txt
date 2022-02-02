@@ -1,2 +1,6 @@
 archivo1
 nueva linea
+segunda linea
+tercera linea
+segunda linea desde el main
+tercera linea desde el main
