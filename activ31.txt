@@ -8,5 +8,9 @@ tercera linea desde el main
 nueva modificacion del main
 =======
 nueva modificacion
+<<<<<<< HEAD
 >>>>>>> actividad3
 nueva modificacion desde main
+=======
+nueva modificacion
+>>>>>>> actividad3
